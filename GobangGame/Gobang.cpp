@@ -508,7 +508,7 @@ void gobang::display(){
 }
 
 int main() {
-    gobang game;
+    Gobang game;
     game.play();
     return 0;
 }
